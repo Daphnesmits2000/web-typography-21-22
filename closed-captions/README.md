@@ -15,7 +15,7 @@ Daarnaast wordt er visueel gespeeld met kleur door gevoel zoals spanning over te
 Als laatste worden de verschillende stemmen weergegeven aan de hand van verschillende kleuren. Op deze manier weet de kijker dat er meerdere stemmen zijn, maar ook wie wat te zeggen heeft en wie welke rol heeft in de video.
 
 ### Bewegend beeld/iframe aanpassen
- Bewegende beelden zijn ingezet om de kijker meer gevoel te geven bij het geluid en de verbeelding van het geluid te versterken, zoals bij het fragment van de test. 
+Bewegende beelden zijn ingezet om de kijker meer gevoel te geven bij het geluid en de verbeelding van het geluid te versterken, zoals bij het fragment van de test. 
 
 ![](/images.typo/Test.png) 
 #### fragment uit de test.
