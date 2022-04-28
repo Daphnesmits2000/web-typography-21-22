@@ -27,5 +27,12 @@ Ik koos voor het Brenner-lettertype omdat je hier meer opties hebt voor welke sf
 ## Verantwoording opbouw video en tekst
 De pagina-indeling is gecentreerd, omdat het midden van de pagina de andacht houdt. De tekst is links uitgelijnd omdat dat voor mij de logische leesrichting is.
 
+## Proces
+Mijn proces met coderen ging moeizaam. Geheel iets nieuws, waar veel tijd in is gaan zitten om het te begrijpen. Mijn eerste week bestond eigenlijk ook geheel uit het oefenen met CSS en HTML. Mijn eerste feedbackmoment had ik ook niet veel om te laten zien (enkel de tekst had kleur), maar kreeg ik wel veel support van medestudenten en de leraar.
+
+Naarmate ik het door kreeg ben ik goed van start gegaan en heb ik veel nieuwe dingen geleerd. Ook ben ik bij het eerste feednback moment geinspieerd door medestudenten en heb ik kunnen zien wat de mogelijkheden waren. 
+
+Tijdens mijn proces ben ik gaan spelen met kleur en transformaties. Door het oefenen met de juiste visuele aspecten op de juiste sound te krijgen ben ik tot een mooi eindresultaat gekomen. 
+
 ## Bronnen
 https://animista.net/ (hulp bij codes)
