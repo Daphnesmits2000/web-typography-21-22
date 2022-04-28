@@ -24,6 +24,8 @@ Ik koos voor het Brenner-lettertype omdat je hier meer opties hebt voor welke sf
 
 [](/images.typo/Grof.png) 
 
+#### "Fuck off, skin job!" 
+
 ## Verantwoording opbouw video en tekst
 De pagina-indeling is gecentreerd, omdat het midden van de pagina de andacht houdt. De tekst is links uitgelijnd omdat dat voor mij de logische leesrichting is.
 
