@@ -17,12 +17,12 @@ Als laatste worden de verschillende stemmen weergegeven aan de hand van verschil
 ### Bewegend beeld/iframe aanpassen
 Bewegende beelden zijn ingezet om de kijker meer gevoel te geven bij het geluid en de verbeelding van het geluid te versterken, zoals bij het fragment van de test. 
 
-![](/images.typo/Test.png) 
+[](/images.typo/Test.png) 
 
 ### Lettertype
 Ik koos voor het Brenner-lettertype omdat je hier meer opties hebt voor welke sfeer je aan elk woord wilt geven. Zo is er in de videoclip onderscheid gemaakt tussen grof taal gebruik en normale uitspraken. 
 
-![](/images.typo/Grof.png) 
+[](/images.typo/Grof.png) 
 
 ## Verantwoording opbouw video en tekst
 De pagina-indeling is gecentreerd, omdat het midden van de pagina de andacht houdt. De tekst is links uitgelijnd omdat dat voor mij de logische leesrichting is.
